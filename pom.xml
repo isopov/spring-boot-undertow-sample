@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>0.5.0.M6</version>
+		<version>0.5.0.M7</version>
 	</parent>
 
 	<groupId>com.sopovs.moradanen</groupId>
@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>com.sopovs.moradanen.spring.boot.undertow</groupId>
 			<artifactId>spring-boot-starter-undertow</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.9</version>
 		</dependency>
 	</dependencies>
 
