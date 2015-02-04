@@ -1,1 +1,1 @@
-Since spring-boot-starter-undertow was merged into main spring-boot project samples for its usage are not maintained together with other oficial [samples](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) 
+Since spring-boot-starter-undertow was merged into main spring-boot project samples for its usage are now maintained together with other oficial [samples](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) 
